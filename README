@@ -1,0 +1,13 @@
+Beadandó GKNB_INTM020 kódú Mikroelektromechanikai rendszerek nevű tárgyhoz.
+Készítők:
+  Tóth Gergő - IRIE5X
+  Kis István Gergő - UYFR1C
+
+Projektünk neve: Autómata virág öntözőrendszer
+
+Felhasznált eszközök:
+  Raspberry Pi 4 Model B
+  5V-os relé-modul
+  Talajnedvesség-érzékelő modul
+  Hőmérséklet és páratartalom érzékelő modul KY-015
+  Mini vízpumpa DC 3-6V 120L/H
